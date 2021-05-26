@@ -1,10 +1,11 @@
 
-{: style="text-align: center;"}  
-->[![Gas Brake Go](https://cdn.discordapp.com/attachments/806343355264401478/820076457690398751/GBG-team-logo-125.png)](#_1)![F̴̻͉̙̏́̓̃̈́̕Ą̷̘͙̖̦̰̆͘Q̴̘͗̈́́͛͆́͐̐](https://cdn.discordapp.com/attachments/806343355264401478/820419983984295936/image0.png)<-
-->hcr2.info | [Wiki](http://wiki.hcr2.info) | [Reddit FAQ](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/faq)<-
 ***
-[TOC2]
+
+* TOC
+{:toc}
+
 ***
+
 ## Chest Reward Questions
 
 #### What is the average amount of coins, parts, and gems earned from the various chests?
