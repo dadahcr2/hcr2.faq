@@ -487,7 +487,7 @@ If you hold brake and accelerator down for the whole countdown before a race is 
 When you bump the dome, which protects the driver, too many times into other objects, the ML will lose the dome.
 
 ## Physics
-
+<a name="bottom"></a>
 ### Effect of accessories.
 
 u/Fingersoft_Rhys (Fingersoft Community Manager), 2019-04-23 on Discord:
@@ -496,4 +496,4 @@ u/Fingersoft_Rhys (Fingersoft Community Manager), 2019-04-23 on Discord:
 
 > It is very important to remember that when our physics engine is simulating the weight of a car (roughly one tonne or much more) it is also simulating the weight of a hat (maybe 80 grams). That tiny bit of added weight is so miniscule next to the mass of the car (close to one, one millionth), that it will in no way effect your race times. **Anyone who claims that changing your outfit will improve or worsen your times on the leader boards ís simply incorrect.**
 
-<a name="bottom"> </a>
+
