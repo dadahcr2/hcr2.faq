@@ -5,9 +5,11 @@
 
 ***
 
-# Chest Reward Questions
+# Resources
 
-#### What is the average amount of coins, parts, and gems earned from the various chests?
+## Chest Reward Questions
+
+### What is the average amount of coins, parts, and gems earned from the various chests?
 
 The numbers shown in the game are often minimums and may understate actual rewards.  Based on collected data, estimates of the **average rewards (and range)** of coins, parts, and gems from the various chests are as follows:
 
@@ -29,7 +31,7 @@ VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 
 
 These numbers may be updated as more data is collected.  The underlying data is available here: http://chest.hcr2.info
 
-#### Is the order of cup  chests random?
+### Is the order of cup  chests random?
 
 *No*. **Cup chests** have a specific sequence:
 
@@ -37,7 +39,7 @@ These numbers may be updated as more data is collected.  The underlying data is 
 
 This is made up of 87 Common(3h), 3 Uncommon(6h), 18 Rare(8h), 2 Epic(12h) and 1 Champion(24h) Chest
 
-#### What are the rewards from Adventure Chests? 
+### What are the rewards from Adventure Chests? 
 
 The gems, coins, and parts vary based on the level of the chest. The level of the chest depends in the distance travelled. For normal maps, Level 1 Is reached at 500m, and increases by 1 for every additional 500m.  For the hard maps (Intense City, Forest Trials, and Raging Winter), Level 1 is reached at 100m and increases by 1 for every additional 100m.
 
@@ -67,7 +69,7 @@ This can be seen in the the below charts which represent data on common and rare
 
 Accordingly, from a parts perspective, it appears best to at least reach 6500m (Level 13 chest), except for the three hard maps, where there is no improvement in parts beyond 600m i.e. Level 6.
 
-#### And the Weekly Team Chest?
+### And the Weekly Team Chest?
 
 Rewards vary depending on the level of the chest at the end of the week. Teams start the week at Level 1 and need to travel 65km in total to reach Level 2.  The distance required increases by 30km for each additional level e.g. 95km to go from Level 2 to Level 3, 125km to go from Level 3 to Level 4, etc.
  
@@ -99,7 +101,7 @@ Level | Km | Coins =20K+4KxLevel | Gems =5+2xLevel | Common | Rare | Epic | Lege
 23-44 | 8360-31239 | 112000-196000 | 50 |  (113~135) | 20% (17~29) |  (12~15) |  (3)
 45+ | 31240+ | 200000 | 50 |  (113~135) | 20% (17~29) |  (12~15) |  (3)
 
-#### And the Season Bonus Chest?
+### And the Season Bonus Chest?
  ![](https://cdn.discordapp.com/attachments/762347618851880984/821144286791204894/ENpYHKkh.jpg)
 
 This chest requires a premium pass to open it. Rewards vary depending on the level of the chest at the end of the month. 
@@ -127,7 +129,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/821197631493374003/image0.jpg)
-# Shop questions
+## Shop questions
 Items that can be purchased with gems in the shop include: 
 - daily epic and legendary parts,
 - chests, and 
@@ -135,41 +137,35 @@ Items that can be purchased with gems in the shop include:
 
 The game has has three principal currencies, namely: coins, gems and scrap (tickets are arguably a currency too - but due to their extreme scarcity, special tickets should only be used for team events i.e. rather use gems when given a choice).
 
-#### What is the implicit exchange rate between coins, gems and scrap?
+### What is the implicit exchange rate between coins, gems and scrap?
 I estimate: 
 - *1 gem = 160 coins*, and 
  - *1 scrap = 20 coins (ignoring any profit margin)*
 
-#### Is it better to use gems for cup chests than buy chests in the shop?
+### Is it better to use gems for cup chests than buy chests in the shop?
 Yes - about 85% cheaper. This is particularly clear for rare chests which cost 200 gems in the shop but only 32 gems in the cup, and epic chests which are 400 gems in the shop but only cost 48 gems in the cups.
 
-#### Is it better to use gems for cup chests than buy coins in the shop?
+### Is it better to use gems for cup chests than buy coins in the shop?
 *Yes*.  5000 gems buys $750,000 coins in the shop.  However, spending 5000 gems on cup chests should result in at least $1.2mm coins,  7.2k common parts, 812 rare parts, and 64 epic parts - not to mention the possibility of legendary parts and paints/skins.  
 The one advantage of the shop is speed, as it takes time to run the cups to obtain the chests.
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831632686492811334/image0.png)
 
-#### Would it be cheaper to buy cup chests, scrap the parts, and then use the scrap to create the needed epic/legendary part than buy that same needed daily epic / legendary parts in the shop?
+### Would it be cheaper to buy cup chests, scrap the parts, and then use the scrap to create the needed epic/legendary part than buy that same needed daily epic / legendary parts in the shop?
 *Probably not* as the process of scrapping destroys 90% of the value of the parts.  However if 10% or more of the parts received from cup chests would be of value and thus not be scrapped then it would be better to buy cup chests.
 
-#### Is it worth using coins to buy daily common($10k) and rare($50k) parts in the shop for scrap purposes when available?  And if so, is it possible to increase the likelihood of their availability?
+### Is it worth using coins to buy daily common($10k) and rare($50k) parts in the shop for scrap purposes when available?  And if so, is it possible to increase the likelihood of their availability?
 *Yes*. it makes sense to convert from a less limited currency (coins) to a scarce one (scrap/parts) despite the unattractive exchange rate.  This assumes that the common / rare parts are available in the shop, which would not be the case if the player has already maxed that part or has sufficient parts already to do so. The good news is that with a little bit of planning, effort and sacrifice it may be possible to increase the likelihood of parts showing up in the shop.  It is more worthwhile to do so for rare parts than common as the payoff is five-times greater.  The trick is to ensure two things: 
 1. Not to max rare parts unless really necessary, i.e. keep on level 9 (or lower) if possible. 
 2. Have less parts in inventory than is required to max that part e.g. not have more than 99 parts if at level 9.
 
-#### What is the best way to spend real money on the game i.e. what would be the best value per "real dollar" and how best to time purchases?
+### What is the best way to spend real money on the game i.e. what would be the best value per "real dollar" and how best to time purchases?
 - Buying a VIP subscription is generally the best value.  
 - This can be improved further by timing the purchase to be near the end of the month (but not right at the end to avoid losing a free day when the next month is a short month) so that two full premium passes can be realized, and then canceling the subscription and resubscribing every two months, thus earning two premium passes per month of VIP purchased. Also it is slightly better to buy near end of odd months (e.g 28 Jan, 28 Mar, 28 May ...) to obtain a few extra days as you avoid going over February month-end.
 - Make sure to open all your free/ad cup chests and use your daily free team and public event tickets before subscribing - as well as before the time the subscription expires. These reset and you should obtain more free chests / tickets.  if you start the VIP (after you have used your free tickets) on the first or second day of a public event, then you should be able to double the public event tickets when the subscription ends the following month i.e. it will also end on a public event day.
 -  if you would like to progress even faster then you would have to use additional money in a less optimal way e.g. VIP every month.
 
 \* I have spared you the details of the analysis, but it is available on request.
-
-## How do I join Tractor Wars?  
-If you would like to compete in tractor wars (unrelated to GBG), make friends with Numpty: https://playhcr.com/invite?id=95Pyg5
-Note: he may unfriend you if you use another vehicle in the daily, and you will need to friend him again if you would like to re-join. 
-Results are reported on the tractor wars discord server: https://discord.gg/ND6avWY  
-Website: http://tw.hcr2.info
 
 ***
 
@@ -500,3 +496,4 @@ u/Fingersoft_Rhys (Fingersoft Community Manager), 2019-04-23 on Discord:
 
 > It is very important to remember that when our physics engine is simulating the weight of a car (roughly one tonne or much more) it is also simulating the weight of a hat (maybe 80 grams). That tiny bit of added weight is so miniscule next to the mass of the car (close to one, one millionth), that it will in no way effect your race times. **Anyone who claims that changing your outfit will improve or worsen your times on the leader boards ís simply incorrect.**
 
+<a name="bottom"> </a>
