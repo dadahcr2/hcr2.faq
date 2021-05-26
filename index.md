@@ -5,7 +5,7 @@
 
 ***
 
-## Chest Reward Questions
+# Chest Reward Questions
 
 #### What is the average amount of coins, parts, and gems earned from the various chests?
 
@@ -127,7 +127,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/821197631493374003/image0.jpg)
-## Shop questions
+# Shop questions
 Items that can be purchased with gems in the shop include: 
 - daily epic and legendary parts,
 - chests, and 
@@ -173,7 +173,7 @@ Website: http://tw.hcr2.info
 
 ***
 
-## Reddit FAQ
+# Reddit FAQ
 
 The following was copied and pasted from the [Reddit FAQ](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/faq) website on 5 March 2021
 
